@@ -1,0 +1,126 @@
+Welcome to Modern Web Development Class!
+
+
+Table of Contents
+
+List of machine assignments:  link
+List of chapters
+Repository:
+Tech Resources:
+Other Notes and Links:
+Music Request:
+
+
+
+Visit https://GitHub.com/ and sign into an existing account of yours or sign up for a new account.
+
+System source checklist:
+Set resolution on monitors
+Open Command Prompt 
+
+
+Repository:
+
+git clone https://github.com/JudyLi  pinski/modernweb 
+
+
+
+Tech Resources:
+https://git-scm.com/book/en/v1/Git-Tools-Stashing 
+https://git-scm.com/docs/git-stash 
+https://www.gimp.org/
+http://html5doctor.com/downloads/h5d-sectioning-flowchart.png
+https://docs.emmet.io/cheat-sheet/ 
+https://www.picksumipsum.co.uk/   (based on movie characters)
+https://app.prntscr.com Lightshot
+
+How to custmize bootstrap: https://uxplanet.org/how-to-customize-bootstrap-b8078a011203 
+http://slickdeals.net  
+https://developers.google.com/web/fundamentals/primers/promises  Promises
+Fetch https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch 
+Polyfill.io https://polyfill.io/v3/
+Github repo https://github.com/Financial-Times/polyfill-library/ 
+
+
+
+Other Notes and Links:
+https://lolsnaps.com/funny/2857660 
+Anil Menon Sci Fi book https://www.amazon.com/Beast-Nine-Billion-Feet/dp/8189884395 
+Lindsey Stirling: https://www.youtube.com/watch?v=aHjpOzsQ9YI&list=RDEMzT1XwmFnIup_KYXuc2rUZA&index=5 
+Lunch option: GrubHub coupon for first time orders: $12 off of $15+ order. 
+http://fbuy.me/lB8Db (COUPON) put in directions to call your cell
+you can order separate and get a cheap lunch!
+yummy jerk chicken Anegada Delights Caribbean Cuisine
+Ginger drink yummy
+yummy indian (and pizza?!)  Gateway Pizza, Subs, & Indian Cuisine
+https://en.wikipedia.org/wiki/Pegasystems 
+https://dirtragmag.com/?s=adam%20lipinski 
+Frank Lloyd Wright - built in bookcases and carports
+Myths about diamonds https://www.gemsociety.org/article/are-diamonds-really-rare/ 
+https://www.sunnyskyz.com/happy-videos/7943/Ancient-Snapping-Turtle-Says-Hi 
+https://gardens.rtbg.tas.gov.au/living-collections/sub-antarctic-plant-house/ 
+How arrays.sort() works https://v8.dev/blog/array-sort 
+https://www.thoughtco.com/invention-of-radio-1992382 
+
+Music Requests:
+Vitamin String Quartet
+Lindsey Stirling
+Barber: Adagio For Strings, Op.11/2 · Baltimore Symphony Orchestra · David Zinman 
+https://www.youtube.com/watch?v=XXLLFukDsvw 
+Ana Vidovic  https://www.youtube.com/watch?v=inBKFMB-yPg 
+Stan Getz:  Stan Getz & Joao Gilberto - Getz/Gilberto (1963) - YouTube
+https://www.youtube.com/watch?v=9KpIV57PSeo
+https://www.youtube.com/watch?v=M57Fi19vcSI 
+Binaural beats: https://www.youtube.com/watch?v=g1LNTAdIi8k concentratio/focus
+Apocalyptica: https://www.youtube.com/watch?v=sOFlMxg-JCU 4 string Metallica
+L'indécis - Soulful - https://www.youtube.com/watch?v=7ZguAEoNpZw 
+https://www.youtube.com/watch?v=m3lF2qEA2cw
+Africa cover - https://www.youtube.com/watch?v=MH9FyLsfDzw
+Paganini Caprice no 24 adapted (not “relaxing” music just an example of classical “shredding”)
+https://www.youtube.com/watch?v=SspDaEfU6DA
+Best guitar player I’ve ever seen:  https://www.youtube.com/watch?v=VlgtZd20kjw
+Marcus Miller bassist https://www.youtube.com/watch?v=XqTCAZK9rzY&start_radio=1&list=RDEMutRDkMJdZj5qW8JLzqcuNg 
+https://www.youtube.com/watch?v=V1bFr2SWP1I - Somewhere over the Rainbow - Israel "IZ" Kamakawiwoʻole 
+
+
+
+
+
+Photo processing software:
+GIMP:  https://www.gimp.org/
+Capture One:  https://www.captureone.com/en/
+Best A6000 all purpose lens:  Sony PZ 18-105mm f/4 G OSS E Mount Lens:
+https://www.bhphotovideo.com/c/product/1460457-REG/sony_e_pz_18_105mm_f_4.html
+Alpha 6000 on Amazon: https://www.amazon.com/gp/product/B00IMP0DN4/ref=oh_aui_search_asin_title?ie=UTF8&psc=1
+Sony - E 50mm F1.8 OSS Portrait Lens (SEL50F18/B)
+https://www.amazon.com/gp/product/B00EPWC30O/ref=oh_aui_search_asin_title?ie=UTF8&psc=1 
+A6000 recommended settings:  https://photographylife.com/recommended-sony-a6000-settings
+Best A6000 book:  https://friedmanarchives.com/alpha6000/index.htm
+Сибирская лайка
+Photography books (russian site), but some books are in English.
+Click the link under the book title for download. 
+I recommend anything by Michael Freeman #61, #62, and #63.
+http://soul-foto.ru/knigi_po_fotografii.html
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
